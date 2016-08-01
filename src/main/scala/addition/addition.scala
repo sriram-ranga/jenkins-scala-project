@@ -31,6 +31,12 @@ class Addition {
 
     return sum
   }
+	  
+	  def addFloat(a:Float,b:Float):Float = {
+	  	var sum:Float = 0
+	  	sum = a + b
+	  	return sum
+	  }
 
 }
 
