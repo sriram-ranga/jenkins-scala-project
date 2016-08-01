@@ -1,0 +1,8 @@
+.settings
+*.class
+.cache*
+.project
+bin
+.classpath
+target
+default
